@@ -10,6 +10,7 @@
   - [CompTIA (A+, Security+, Network+, CySA+, PenTest+, Project+)](https://www.credly.com/users/kevin-solorzano.dc4afe29)
   - [Associate of ISC2: SSCP](https://www.credly.com/users/kevin-solorzano.dc4afe29)
   - [Google IT Support Professional Certificate](https://coursera.org/share/1d44816145b39790460e19c8a501fa8d)
+  - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000575259/dffcxkcv3v)
     
 <h2> 🤳 Connect with me:</h2>
 
