@@ -8,8 +8,9 @@
 <h2>👨‍💻 Certifications:</h2>
 
   - [CompTIA (A+, Security+, Network+, CySA+, PenTest+, Project+)](https://www.credly.com/users/kevin-solorzano.dc4afe29)
-  - [Associate of ISC2: SSCP](https://drive.google.com/file/d/1tlH3bQxfSS8q5EPisOAwBuPghRqX4lg_/view?usp=sharing)    
-
+  - [Associate of ISC2: SSCP](https://drive.google.com/file/d/1tlH3bQxfSS8q5EPisOAwBuPghRqX4lg_/view?usp=sharing)
+  - [Google IT Support Professional Certificate] (https://coursera.org/share/1d44816145b39790460e19c8a501fa8d)
+    
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="kevin-solorzano-59a949245 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
