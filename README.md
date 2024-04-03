@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Hi, I'm Kevin! <br/><a href="https://www.linkedin.com/in/kevin-solorzano-59a949245/">Cybersecurity Professional</a>
 
-<!--
-**KSolo10/KSolo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+s://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Azure Sentinel SIEM project](https://github.com/aldot311/Azure-Sentinel-Lab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Certifications:</h2>
+
+  - [CompTIA (A+, Security+, Network+, CySA+, PenTest+, Project+)](https://www.credly.com/kevin-solorzano.dc4afe29/badges)
+  - [Associate of ISC2: SSCP](https://drive.google.com/file/d/1tlH3bQxfSS8q5EPisOAwBuPghRqX4lg_/view?usp=sharing)    
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="kevin-solorzano-59a949245 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/kevin-solorzano-59a949245
