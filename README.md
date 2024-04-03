@@ -8,7 +8,7 @@ s://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potenti
 
 <h2>👨‍💻 Certifications:</h2>
 
-  - [CompTIA (A+, Security+, Network+, CySA+, PenTest+, Project+)](https://www.credly.com/kevin-solorzano.dc4afe29/badges)
+  - [CompTIA (A+, Security+, Network+, CySA+, PenTest+, Project+)](https://www.credly.com/users/kevin-solorzano.dc4afe29)
   - [Associate of ISC2: SSCP](https://drive.google.com/file/d/1tlH3bQxfSS8q5EPisOAwBuPghRqX4lg_/view?usp=sharing)    
 
 <h2> 🤳 Connect with me:</h2>
