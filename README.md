@@ -11,6 +11,7 @@
   - [Associate of ISC2: SSCP](https://www.credly.com/users/kevin-solorzano.dc4afe29)
   - [Google IT Support Professional Certificate](https://coursera.org/share/1d44816145b39790460e19c8a501fa8d)
   - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000575259/dffcxkcv3v)
+  - [ITIL 4]
     
 <h2> 🤳 Connect with me:</h2>
 
