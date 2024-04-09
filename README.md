@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Azure Sentinel SIEM project](https://github.com/aldot311/Azure-Sentinel-Lab)
+  - [Azure Sentinel SIEM project](https://github.com/KSolo10/Azure)
 
 <h2>👨‍💻 Certifications:</h2>
 
